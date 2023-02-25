@@ -22,7 +22,7 @@ public class ComputerScienceStudent extends Person{
 
     public void canDo() {
         System.out.println("Can attend classes.");
-        System.out.println("Can do my homework.");
+        System.out.println("Can do homework.");
         System.out.println("Can program, but can't paint");
     }
 
