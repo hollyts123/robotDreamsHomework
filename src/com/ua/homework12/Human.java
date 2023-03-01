@@ -1,11 +1,11 @@
 package com.ua.homework12;
 
 public class Human implements Flyable, Drivable {
+
     public void canDo() {
     }
 
     public void takeOff() {
-
     }
 
     public void flying() {
@@ -15,8 +15,8 @@ public class Human implements Flyable, Drivable {
     }
 
     public void startMoving() {
-
     }
+
     public void moving() {
     }
 
